@@ -1,3 +1,4 @@
+![logo](https://github.com/bhattieysa/bhattieysa/blob/main/My%20Image.jpg)
 <h1 align="center">Hi 👋, I'm Eysa Azhar</h1>
 <h3 align="center">Mobile App Developer | React / React Native Developer | Full Stack Web Developer</h3>
 
